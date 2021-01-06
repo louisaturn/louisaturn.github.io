@@ -1,0 +1,26 @@
+/* commented because my background is the star background*/
+/* body {
+  background-color: #2F2F31;
+} */
+
+/* new: canvas - fix the refresh background's bug*/
+canvas{
+    position: absolute;
+    z-index: -1;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #2F2F31;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2F2F31;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2F2F31;
+}
