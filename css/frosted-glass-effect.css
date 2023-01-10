@@ -23,13 +23,14 @@ body {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 
 p {
     font-family: 'Open Sans', sans-serif;
 }
 
-.arruma {
+.fix {
     display: flex;
     flex-flow: column;
 }
@@ -39,7 +40,7 @@ p {
     background-color: inherit;
     background-size: contain;
     position: absolute;
-    top: calc(50% - 10px);
+    top: calc(50% - 50px);
     left: calc(50% - 400px);
     right: calc(50% - 400px);
     border-radius: 2px;
@@ -59,7 +60,7 @@ p {
 } */
 
 .user-icon {
-    margin-top: 170px;
+    margin-top: 60px;
     align-self: center;
     width: 200px;
     height: 200px;
@@ -72,7 +73,7 @@ p {
 }
 
 .text {
-    text-align: center;
+    text-align: justify;
     position: relative;
     z-index: 1;
     color: white;

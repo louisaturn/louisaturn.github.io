@@ -67,7 +67,8 @@
   animation: bounce 1s;
 }
 .social-networks .icon-gmail:after {
-  content: "";
+  content: url('../images/gmail.svg');
+  top: 10px;
 }
 .social-networks .icon-gmail:hover:before, .social-networks .icon-gmail:focus:before {
   background: #d14836;
