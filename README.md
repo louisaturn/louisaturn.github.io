@@ -1,3 +1,4 @@
 # louisaturn.github.io
 
-Página pessoal em construção. Minha primeira experiência com frontend!
+Personal page in construction. My first experience with pure frontend!
+It's cute right now, but not responsive at all. I'm working on that!
